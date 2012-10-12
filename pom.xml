@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.cmu.lti.11791.f12.hw0</groupId>
   <artifactId>hw0-shangqiz</artifactId>
-  <version>0.0.42-SNAPSHOT</version>
+  <version>0.0.43-SNAPSHOT</version>
   <scm>
   	<connection>scm:git:git@github.com:youlovethis3/hw0-shangqiz.git</connection>
   	<developerConnection>scm:git:git@github.com:youlovethis3/hw0-shangqiz.git</developerConnection>
