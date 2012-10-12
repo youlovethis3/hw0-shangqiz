@@ -18,7 +18,7 @@ import edu.stanford.nlp.process.Tokenizer;
 * Set the first argument as the sentence to
 21 * be tokenized.
 */
- public static void main(String[] args) {
+ public static void main(String[] args) { 
 TokenizerFactory<Word> factory =
  PTBTokenizerFactory.newTokenizerFactory();
 Tokenizer<Word> tokenizer =
